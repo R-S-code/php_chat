@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body {
+    margin: 80px 120px 0;
+}
+
+.name {
+    display: inline-block;
+}
+
+.send {
+    margin: 24px 0;
+}
